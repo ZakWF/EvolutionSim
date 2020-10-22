@@ -1,0 +1,6 @@
+[1022/174923.202:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1022/192801.940:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\dugie\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\c5439968-cdc0-418c-aaf4-c78fa67ba811: The system cannot find the path specified. (0x3)
+[1022/192803.424:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\dugie\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\5613a395-bc47-4581-b2cf-1891caf7b166: The system cannot find the path specified. (0x3)
+[1022/192804.695:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\dugie\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\828383db-3e97-4f62-a3e6-7e051717063b: The system cannot find the path specified. (0x3)
+[1022/192843.649:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\dugie\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\5035bdc3-033e-4991-a173-c4734278fe0e: The system cannot find the path specified. (0x3)
+[1022/192843.829:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
